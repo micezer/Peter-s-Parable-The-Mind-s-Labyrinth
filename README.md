@@ -27,7 +27,7 @@ Para probar el juego en tu propia máquina, sigue estos pasos:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tuusuario/peters-journey.git
+    git clone https://github.com/micezer/Peter-s-Parable-The-Mind-s-Labyrinth.git
     ```
 
 2. Abre el proyecto en **Unity**:
