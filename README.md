@@ -64,14 +64,7 @@ Si deseas contribuir al proyecto:
 5. Abre un **pull request**.
 
 ## Créditos
-- **Desarrollador Principal**: [Tu Nombre]
-- **Narradores**: [Nombres de los actores de voz]
-- **Música y Efectos de Sonido**: [Fuente o equipo que proporcionó los efectos de sonido]
-- **Gráficos y Modelado 3D**: [Si tienes artistas 3D que colaboraron]
+- **Desarrollador Principal**: [Michael Obinna Ezeh Ero]
+- **Narradores**: [Play HT]
 
-## Licencia
-Este proyecto está bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para más detalles.
 
----
-
-Este **README** está diseñado para dar una descripción clara y profesional del proyecto, destacando su funcionalidad, tecnologías utilizadas y cómo instalarlo y jugar. Si necesitas más detalles o ajustes, ¡avísame!
